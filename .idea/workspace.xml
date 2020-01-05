@@ -4,6 +4,10 @@
     <list default="true" id="36255203-9eff-428c-831c-3972bb973678" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/factories/ProjectFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ProjectFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/projects/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/projects/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Feature/ProjectsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ProjectsTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +179,7 @@
       <updated>1578176299079</updated>
       <workItem from="1578176302142" duration="2378000" />
       <workItem from="1578190027425" duration="2139000" />
-      <workItem from="1578192794242" duration="2619000" />
+      <workItem from="1578192794242" duration="6419000" />
     </task>
     <servers />
   </component>
@@ -183,19 +187,20 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="832" y="347" key="NewPhpFileDialog" timestamp="1578193141099">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="832" y="348" key="NewPhpFileDialog" timestamp="1578200745462">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="832" y="347" key="NewPhpFileDialog/0.23.1440.804@0.23.1440.804" timestamp="1578193141099" />
+    <state x="832" y="348" key="NewPhpFileDialog/0.23.1440.806@0.23.1440.806" timestamp="1578200745462" />
     <state x="443" y="59" key="SettingsEditor" timestamp="1578178347280">
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="443" y="59" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1578178347280" />
-    <state x="679" y="152" width="670" height="675" key="search.everywhere.popup" timestamp="1578196623607">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1578202159776">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="679" y="152" width="670" height="675" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1578196623607" />
-    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1578178318508" />
+    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1578202159776" />
     <state x="679" y="153" width="670" height="678" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1578178588076" />
   </component>
 </project>
