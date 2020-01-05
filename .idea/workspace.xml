@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36255203-9eff-428c-831c-3972bb973678" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/birdboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/birdboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/ProjectsController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Project.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Project.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/database/factories/ProjectFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/factories/ProjectFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/projects/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/projects/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_01_05_021939_create_projects_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_01_05_021939_create_projects_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/Feature/ProjectsTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Feature/ProjectsTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +134,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
       <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1Vwu5upccnKhcpKHi1S1NiiQi7i" />
@@ -179,7 +189,7 @@
       <updated>1578176299079</updated>
       <workItem from="1578176302142" duration="2378000" />
       <workItem from="1578190027425" duration="2139000" />
-      <workItem from="1578192794242" duration="6419000" />
+      <workItem from="1578192794242" duration="10350000" />
     </task>
     <servers />
   </component>
@@ -196,11 +206,11 @@
       <screen x="0" y="23" width="1440" height="806" />
     </state>
     <state x="443" y="59" key="SettingsEditor/0.23.1440.806@0.23.1440.806" timestamp="1578178347280" />
-    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup" timestamp="1578202159776">
-      <screen x="0" y="23" width="1440" height="806" />
+    <state x="679" y="153" width="670" height="678" key="search.everywhere.popup" timestamp="1578207748729">
+      <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="679" y="152" width="670" height="675" key="search.everywhere.popup/0.23.1440.804@0.23.1440.804" timestamp="1578196623607" />
-    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1578202159776" />
-    <state x="679" y="153" width="670" height="678" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1578178588076" />
+    <state x="679" y="153" width="670" height="676" key="search.everywhere.popup/0.23.1440.806@0.23.1440.806" timestamp="1578204007689" />
+    <state x="679" y="153" width="670" height="678" key="search.everywhere.popup/0.23.1440.808@0.23.1440.808" timestamp="1578207748729" />
   </component>
 </project>
